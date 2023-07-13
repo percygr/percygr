@@ -3,9 +3,8 @@
 I'm Paul, a recent graduate of the School of Code.
 
 Link to our final project - 
-<a href="https://github.com/jsonandthearguments/kindr/">
-  <img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://github.com/jsonandthearguments/kindr/)" alt="Kindr">
-</a>
+<a href="https://kindr.netlify.app" alt="Kindr Github">Kindr</a>
+<a href="https://github.com/jsonandthearguments/kindr/" alt="Kindr Github">Github</a>
 
 <!--
 **percygr/percygr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
