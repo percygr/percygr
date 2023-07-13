@@ -3,7 +3,7 @@
 I'm Paul, a recent graduate of the School of Code.
 
 Link to our final project - 
-<a href="https://kindr.netlify.app" alt="Kindr Github">Kindr</a>
+<a href="https://kindr.netlify.app" alt="Kindr Github">Kindr</a> - 
 <a href="https://github.com/jsonandthearguments/kindr/" alt="Kindr Github">Github</a>
 
 <!--
