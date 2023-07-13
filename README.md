@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Paul, a recent graduate of the School of Code
+
 <!--
 **percygr/percygr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
