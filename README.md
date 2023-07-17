@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br>
+
+<div align="center">
+<h1 align="center">⚔️ Codewars</h1>
+
+<img src="https://www.codewars.com/users/percygr/badges/large"/></div>
