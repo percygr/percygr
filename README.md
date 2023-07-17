@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Paul, a recent graduate of the School of Code.
+I'm Paul, a recent graduate of the School of Code learning Javascript, React, Express, PostgreSQL.
 
 Link to our final project - 
 <a href="https://kindr.netlify.app" alt="Kindr Github">Kindr</a> - 
